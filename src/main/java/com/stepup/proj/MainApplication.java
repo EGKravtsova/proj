@@ -8,7 +8,7 @@ public class MainApplication {
         System.out.println("333313");
     }
     public static void doSomething(){
-        System.out.println("hello new branch");
+        System.out.println("hello new 1 branch");
 
 
     }
